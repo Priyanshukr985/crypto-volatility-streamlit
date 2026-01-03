@@ -70,3 +70,12 @@ Users can input market parameters and instantly receive predicted volatility val
 
 ## 📁 Repository Structure
 
+Cryptocurrency-Volatility-Prediction-using-Machine-Learning.pdf #ppt
+Final_Report_Cryptocurrency_Volatility_Prediction.pdf # final report
+HLD_LLD_and_Pipeline_Architecture.pdf # HLD + LLD + Pipeline
+ML_Project_crypto.ipynb # Source code
+app.py # streamlit application
+requirements.txt # Project dependencies
+rf_volatility_model.pkl # # Trained ML model
+README.md # Project documentation
+
