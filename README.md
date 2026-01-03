@@ -56,6 +56,9 @@ Feature importance analysis showed that price range and liquidity-based features
 
 The trained model has been deployed online using **Streamlit Cloud**.
 
+<img width="922" height="876" alt="image" src="https://github.com/user-attachments/assets/49481a1c-0577-4f2d-832e-b9327d3823dd" />
+
+
 🔗 **Live App URL:**  
 👉 https://crypto-volatility-app-kryudkex96jkjgr6egvgxp.streamlit.app/
 
@@ -93,6 +96,7 @@ requirements.txt # Project dependencies
 rf_volatility_model.pkl # # Trained ML model
 
 README.md # Project documentation
+
 
 
 
