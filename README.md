@@ -1,3 +1,9 @@
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Priyanshukr985/crypto-volatility-streamlit)
+![GitHub stars](https://img.shields.io/github/stars/Priyanshukr985/crypto-volatility-streamlit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Priyanshukr985/crypto-volatility-streamlit?style=social)
+
+
 # 🚀 Cryptocurrency Volatility Prediction
 
 This project is an end-to-end Machine Learning application that predicts short-term cryptocurrency market volatility using historical price and market data.  
@@ -87,5 +93,6 @@ requirements.txt # Project dependencies
 rf_volatility_model.pkl # # Trained ML model
 
 README.md # Project documentation
+
 
 
